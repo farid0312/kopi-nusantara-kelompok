@@ -27,3 +27,17 @@ h2 {
     object-fit: cover;
     border-radius: 8px;
 }
+
+.testimoni {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.pelanggan {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+}
